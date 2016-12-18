@@ -10,10 +10,11 @@ git clone https://github.com/andsens/homeshick.git $HOME/.homesick/repos/homeshi
 source ~/.bashrc
 ```
 
-#### STEP 3: Install fish
+#### STEP 3: Install fish and vim
 ```bash
 # install fish with brew
-sudo apt-get install fish
+sudo apt-get update
+sudo apt-get install fish vim
 ```
 
 #### Then log out and log in again to apply the changes
