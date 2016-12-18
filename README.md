@@ -6,7 +6,7 @@
 
 ```bash
 git clone https://github.com/andsens/homeshick.git $HOME/.homesick/repos/homeshick
-~/.homesick/repos/homeshick/bin/homeshick clone mirhec/dotfiles
+~/.homesick/repos/homeshick/bin/homeshick clone mirhec/dotfiles.uberspace
 source ~/.bashrc
 ```
 
