@@ -1,6 +1,6 @@
-# Setup dotfiles on Uberspace
+# Setup dotfiles on Raspberry Pi
 
-#### STEP 1: Login to your server
+#### STEP 1: Login to your Pi
 
 #### STEP 2: Clone the dotfiles from these reporitory
 
@@ -12,9 +12,8 @@ source ~/.bashrc
 
 #### STEP 3: Install fish and vim
 ```bash
-# install fish with brew
-sudo apt-get update
-sudo apt-get install fish vim
+# curl -L https://goo.gl/GXHTFj | sudo bash
+sudo apt-get install fish vim -y
 ```
 
 #### Then log out and log in again to apply the changes
