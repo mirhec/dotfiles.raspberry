@@ -10,10 +10,4 @@ git clone https://github.com/andsens/homeshick.git $HOME/.homesick/repos/homeshi
 source ~/.bashrc
 ```
 
-#### STEP 3: Install fish and vim
-```bash
-# curl -L https://goo.gl/GXHTFj | sudo bash
-sudo apt-get install fish vim -y
-```
-
 #### Then log out and log in again to apply the changes
